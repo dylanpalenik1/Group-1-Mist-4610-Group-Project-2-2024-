@@ -22,9 +22,14 @@ The goal is for the YTS data to help control strategies and initiatives aimed at
 Specific types of data produced by the Youth Tobacco Survey (YTS) and their meaning.
 
 * Prevalence of Tobacco Use:
-  * Current Use
+  * Current Use:
     * Definition: Students who have used tobacco products (cigarettes, e-cigarettes, cigars, smokeless tobacco) in the past 30 days.
     * Significance: Provides insight into the proportion of students currently using tobacco.
+   
+  * Ever Use:
+    * Definition: Students who have ever tried or experimented with tobacco products, regardless of whether they are current users.
+    * Significance: This data point helps understand initiation rates.
+
 
    
 * First level

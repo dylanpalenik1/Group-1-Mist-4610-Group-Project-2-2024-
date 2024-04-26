@@ -21,7 +21,7 @@
 The goal is for the YTS data to help control strategies and initiatives aimed at reducing youth tobacco use. It helps researchers identify trends and high-risk populations and develop targeted interventions to prevent tobacco use among American youth. 
 Specific types of data produced by the Youth Tobacco Survey (YTS) and their meaning.
 
-1)Prevalence of Tobacco Use: 
+1) Prevalence of Tobacco Use: 
 Current Use
 Definition: Students who have used tobacco products (cigarettes, e-cigarettes, cigars, smokeless tobacco) in the past 30 days.
 

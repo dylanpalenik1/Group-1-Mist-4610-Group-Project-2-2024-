@@ -19,7 +19,7 @@
 
 **Description:**
 
-## Manupulations applied to the data set for analysis:
+## Data Set Manipulations
 
 ## Question 1
 

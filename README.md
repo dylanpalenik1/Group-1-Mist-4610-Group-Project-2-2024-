@@ -36,7 +36,22 @@ Specific types of data produced by the Youth Tobacco Survey (YTS) and their mean
 * Socio-Demographic Factors:
    * Age and Grade Level: Use patterns across different age groups and grade levels.
    * Gender: Variations in tobacco use between males and females.
-* Perceptions and Attitudes: 
+* Perceptions and Attitudes:
+   * Perceived Harm: Students’ perceptions of the risks associated with tobacco use.
+   * Access and Availability: Data on where students obtain tobacco products and their exposure to tobacco use.
+* Trends Over Time:
+   * Yearly Comparisons: Tracking changes in tobacco use prevalence and behaviors over multiple survey cycles.
+   * Longitudinal Data: Following students over time to observe the changes in tobacco use from adolescence into young adulthood.
+* Geographic Comparisons:
+   * State-Level Data: Insights into variations in tobacco use, prevalence, policies, and interventions across different states.
+   * Urban/Rural Difference: Contrasting tobacco use patterns between urban, suburban, and rural areas
+* Correlates of Tobacco Use:
+   * Protective Factors: Identifying factors that may reduce the likelihood of tobacco initiation or promote cessation among youth.
+ 
+ By analyzing these data points, researchers can gain a comprehensive understanding of tobacco use among the American youth, identify risk and protective factors, and tailor interventions and policies to address the specific needs of different population groups.
+
+
+
 
 
    

@@ -18,6 +18,9 @@
 **Dimensions:** 1,048,576R x 31C
 
 **Description:**
--test
--test-
 
+## Manupulations applied to the data set for analysis:
+
+## Question 1
+
+## Question 2

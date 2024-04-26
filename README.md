@@ -18,6 +18,6 @@
 **Dimensions:** 1,048,576R x 31C
 
 **Description:**
-*test*
+-test
 -test-
 

@@ -25,10 +25,18 @@ Specific types of data produced by the Youth Tobacco Survey (YTS) and their mean
   * Current Use:
     * Definition: Students who have used tobacco products (cigarettes, e-cigarettes, cigars, smokeless tobacco) in the past 30 days.
     * Significance: Provides insight into the proportion of students currently using tobacco.
-   
   * Ever Use:
     * Definition: Students who have ever tried or experimented with tobacco products, regardless of whether they are current users.
     * Significance: This data point helps understand initiation rates.
+* Types of Tobacco Products:
+   * Cigarettes: Data on cigarette smoking prevalence among youth, including daily and non-daily use.
+   * E-cigarettes: Use of electronic nicotine systems (vaping) among students.
+   * Cigars: Data on cigar smoking prevalence.
+   * Smokeless Tobacco: Use of chewing tobacco among youth.
+* Socio-Demographic Factors:
+   * Age and Grade Level: Use patterns across different age groups and grade levels.
+   * Gender: Variations in tobacco use between males and females.
+* Perceptions and Attitudes: 
 
 
    

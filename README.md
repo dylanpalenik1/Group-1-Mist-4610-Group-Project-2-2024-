@@ -202,7 +202,10 @@ The aim of this analysis was to identify trends in youth tobacco use over time a
 
 **General Historical Trends:**
 
-The general trend of youth tobacco use from 1999 to 2017 shows a statistically significant decrease with an R-squared value of 0.959, indicating that approximately 95.8% of the variability in the average data value can be explained by the year alone. This downward trend has a slope coefficient of -0.0020286 (p < 0.0001), which suggests an annual average decrease in the rate of tobacco use by about 0.20%. Looking into the future, the forecasted data, shaded in the visualization, estimates this trend will continue, leading to a further reduction in tobacco use among youth, which aligns with the objectives of ongoing public health efforts.
+The general trend of youth tobacco use from 1999 to 2017 shows a statistically significant decrease with an R-squared value of 0.959, indicating that approximately 95.8% of the variability in the average data value can be explained by the year alone. This downward trend has a slope coefficient of -0.0020286 (p < 0.0001), which suggests an annual average decrease in the rate of tobacco use by about 0.20%.
+
+Looking into the future the forecasted data, shaded in the visualization, estimates this trend will continue. We expected this trend to continue as the overall trend shows a continually decline. However the forecast has a p value of 0.0962613 which is insignificant at a significance level of p > 0.05. This means that the forecast does not significantly differ from zero and does not accurately predict the changes in data value based on year. We believe this is due to the data value standard error and confidence limits as they vary a lot across different entries which show variability which could affect the significance of the trend. We believe this is likely due to the sample size of the data as it was a smaller sample size which typically leads to larger standard error.
+
 
 
 ![HistoricalTrendInYouthTobaccoUseByGender](https://github.com/hayleydaniels/MIST-4610-Group-Project-2/assets/150054646/57373ddf-4caa-492f-b7c7-f8f265cf3966)
@@ -213,6 +216,8 @@ The general trend of youth tobacco use from 1999 to 2017 shows a statistically s
 The gender-specific analysis revealed a similar downward trend for both males and females. For males, the slope coefficient of the trend line was -0.00232155 (p < 0.0001), and for females, it was -0.002048 (p < 0.0001). Although both genders show a significant decrease, the steeper slope for males indicates that the rate of decline in tobacco use is slightly more pronounced for them compared to females.
 
 The forecast suggests that these declines are expected to continue into the future. The forecast for females, in particular, shows a slightly less steep decline than males, suggesting that the rate of decrease in tobacco use among young females may start to lag behind that of males. This difference is visually represented by the divergence of the estimated trend lines, indicating that if current conditions persist, young males may experience a faster decline in tobacco use rates than females.
+
+However looking further into the forecast, although we expected both to have a continued downward trend the male forecast was significant but the female forecast was not significant. The male forecast had a p value of < 0.0001 which is significant at a significance level of p > 0.05. However the female forecast had a p value of 0.119021 which is insignificant a significance level of p > 0.05. This means that although the male tobacco use might have a continued downward trend the female trend is inconclusive. We believe the insignificance of the female forecast can be explained by the standard error as the standard errors are higher for the females compared to males which can contribute to a higher p value. We again believe this is likely due to the sample size of the data as it was a smaller sample size which typically leads to larger standard error.
 
 **Implications and Conclusions:**
 

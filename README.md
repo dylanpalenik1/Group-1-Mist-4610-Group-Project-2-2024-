@@ -127,6 +127,19 @@ Analyzing the changes in youth tobacco use over time and across genders is vital
 
 Similar to the first question, this question is also tied to the dataset because the dataset retrieved contains information regarding the use, exposure, and knowledge of tobacco among middle school and high school youth. Through this analysis, we aim to provide a comprehensive overview of the shifts in youth tobacco use, contributing valuable insights for policymakers, educators, and public health officials in their ongoing efforts to reduce tobacco use among young populations.
 
+## Manipulations:
+For question 1, “In the United States, what are the highest and lowest rates of youth tobacco use across different states? For those who are youth tobacco users, what is their status?” Here are the manipulations applied to the data set for each visualization.
+**Visualization 1**: State Specific Youth Tobacco Rates
+ - Data Preparation: We started by loading the data set into Tableau and we filtered out data related to “Guam” and “National”. We filtered this data out as we specifically wanted to look at rates across the 50 states.
+Columns and Rows: The “Location Description” was set as the dimension in rows to separate the data by state. The Data Value was set to measure Average representing the average rate of youth tobacco use, and was placed in columns. The Data Value was percentage set to average to better understand overall trends and patterns in youth tobacco use
+Visual Enhancements: We used “Location Description” for color coding to help visually distinguish between states. Labels were also added to the bars to display the specific averages improving readability.
+**Visualization 2**: Youth Tobacco Users Status
+Data Preparation: Similar to the first visualization we excluded “Guam” and “National” entries to look at rates across the 50 states.
+Columns and Rows: The “Measure Description” which categories current status of smokers (Percent who want to quit, attempted to quit, currently smoking) was placed in the columns to show the different categories. The average of Data value was again placed in rows to show the rate of use for each category.
+Visual Enhancements: We color coded the “Measure Description” to show the different types of status. We also added labels to the average Data Value to show the rates for different status.
+These visualizations were designed to show insights into the geographic and categorical aspects of youth tobacco use to help organizations or government to identify key areas to prevention.
+
+
 ## Analysis and Results:
 
 **Question 1 Analysis Overview:**

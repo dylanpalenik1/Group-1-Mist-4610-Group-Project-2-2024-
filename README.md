@@ -129,7 +129,9 @@ Similar to the first question, this question is also tied to the dataset because
 
 ## Manipulations:
 For question 1, “In the United States, what are the highest and lowest rates of youth tobacco use across different states? For those who are youth tobacco users, what is their status?” Here are the manipulations applied to the data set for each visualization.
+
 **Visualization 1**: State Specific Youth Tobacco Rates
+
  - Data Preparation: We started by loading the data set into Tableau and we filtered out data related to “Guam” and “National”. We filtered this data out as we specifically wanted to look at rates across the 50 states.
  - Columns and Rows: The “Location Description” was set as the dimension in rows to separate the data by state. The Data Value was set to measure Average representing the average rate of youth tobacco use, and was placed in columns. The Data Value was percentage set to average to better understand overall trends and patterns in youth tobacco use
  - Visual Enhancements: We used “Location Description” for color coding to help visually distinguish between states. Labels were also added to the bars to display the specific averages improving readability.

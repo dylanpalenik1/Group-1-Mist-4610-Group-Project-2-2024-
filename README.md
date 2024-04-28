@@ -135,19 +135,25 @@ For question 1, “In the United States, what are the highest and lowest rates o
  - Data Preparation: We started by loading the data set into Tableau and we filtered out data related to “Guam” and “National”. We filtered this data out as we specifically wanted to look at rates across the 50 states.
  - Columns and Rows: The “Location Description” was set as the dimension in rows to separate the data by state. The Data Value was set to measure Average representing the average rate of youth tobacco use, and was placed in columns. The Data Value was percentage set to average to better understand overall trends and patterns in youth tobacco use
  - Visual Enhancements: We used “Location Description” for color coding to help visually distinguish between states. Labels were also added to the bars to display the specific averages improving readability.
+ - 
 **Visualization 2**: Youth Tobacco Users Status
+
  - Data Preparation: Similar to the first visualization we excluded “Guam” and “National” entries to look at rates across the 50 states.
  - Columns and Rows: The “Measure Description” which categories current status of smokers (Percent who want to quit, attempted to quit, currently smoking) was placed in the columns to show the different categories. The average of Data value was again placed in rows to show the rate of use for each category.
  - Visual Enhancements: We color coded the “Measure Description” to show the different types of status. We also added labels to the average Data Value to show the rates for different status.
 These visualizations were designed to show insights into the geographic and categorical aspects of youth tobacco use to help organizations or government to identify key areas to prevention.
 
 For question 2, “In the United States, how has the average rate of youth tobacco use changed over the years, and are there trends or shifts? Of the youth tobacco users, are there different trends and shifts based on gender?” Here are the manipulations applied to the data set for each visualization.
+
 **Visualization 1**: Historical Trend in Youth Tobacco Use
+
  - Data Preparation: We started by loading the data set into Tableau and we filtered out data related to “Guam” and “National”. We filtered this data out as we specifically wanted to look at rates across the 50 states.
  - Columns and Rows: We placed “Year” into columns to show a timeline from the earliest data points in 1999 to most recent data points in 2017. This represents the rate of youth tobacco use and changes overtime.
  - Forecasting: To help understand potential future trends based on the historical data a forecast feature was applied. This helps predict future rates of tobacco use and offer insights into rates if they are expected to fall, rise or stabilize
 Visual Enhancements: The visualization is designed to show fluctuations and progression in youth tobacco use over the years with the forecast providing a predictive view.
+
 **Visualization 2**: Historical Trend in Youth Tobacco Use By Gender
+
  - Data Preparation:Similar to the first visualization we excluded “Guam” and “National” entries to look at rates across the 50 states. We also filtered out data related to “Overall” for gender to focus only on male and female.
  - Columns and Rows: We placed “Year” into the columns again to create a timeline. Then the average of Data Value was placed in rows to track the youth tobacco use rates across different years for each gender.
  - Forecasting: Forecasting was added for both male and female data sets to help project future trends based on the past data. This helps identify if one gender has a sharper increase or decrease in tobacco use rates compared to one another

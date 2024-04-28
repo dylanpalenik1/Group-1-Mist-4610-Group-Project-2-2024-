@@ -50,15 +50,7 @@ Specific types of data produced by the Youth Tobacco Survey (YTS) and their mean
  
  By analyzing these data points, researchers can gain a comprehensive understanding of tobacco use among the American youth, identify risk and protective factors, and tailor interventions and policies to address the specific needs of different population groups.
 
-
-
-
-
-   
-* First level
-  * Second level
-    * Third level
-
+## Glossary
 
 ## Data Set Manipulations
 
